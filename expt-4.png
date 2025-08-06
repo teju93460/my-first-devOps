@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="Page-1" id="PWIuI12Nox-mVHcqWito">
+    <mxGraphModel dx="928" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CrAPmP1t-v7ayFUE5OmH-1" value="PLAN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CrAPmP1t-v7ayFUE5OmH-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="90" as="sourcePoint" />
+            <mxPoint x="400" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="80" />
+              <mxPoint x="400" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CrAPmP1t-v7ayFUE5OmH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CrAPmP1t-v7ayFUE5OmH-10" target="CrAPmP1t-v7ayFUE5OmH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CrAPmP1t-v7ayFUE5OmH-10" value="DEVELOP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CrAPmP1t-v7ayFUE5OmH-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="210" as="sourcePoint" />
+            <mxPoint x="400" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="200" />
+              <mxPoint x="400" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CrAPmP1t-v7ayFUE5OmH-12" value="BUILD" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CrAPmP1t-v7ayFUE5OmH-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="320" />
+              <mxPoint x="400" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CrAPmP1t-v7ayFUE5OmH-19" value="TEST" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CrAPmP1t-v7ayFUE5OmH-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="sourcePoint" />
+            <mxPoint x="400" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="440" />
+              <mxPoint x="400" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CrAPmP1t-v7ayFUE5OmH-21" value="RELEASE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
